@@ -126,7 +126,7 @@ curve when used here.
 **Requirements:** MATLAB with the Partial Differential Equation Toolbox.
 
 ```matlab
-stiffness_gui
+Main_FEM
 ```
 
 This opens a single resizable window. Use **Next >** / **< Back** to move
