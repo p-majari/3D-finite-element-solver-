@@ -1,4 +1,4 @@
-# Nonlinear FEM Wizard — 3D Tetrahedral FEA GUI (MATLAB)
+# Nonlinear FEM Wizard — 3D Tetrahedral FEA (MATLAB)
 
 A single-window, step-by-step MATLAB app (`Main_FEM.m`) for 3D linear and
 nonlinear static structural finite element analysis on tetrahedral meshes
